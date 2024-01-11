@@ -2,7 +2,7 @@
 
 As a part of dataset we provide three files
 
-1. Annotated cases of 100 documents pairs present in file: "annotations_withIDs.jsonl"  
+1. Annotated cases of 120 documents pairs present in file: "annotations_withIDs.jsonl"  
 2. List of inspected documents and their additional data is in "inspected_documents.xlsx"
 3. List of potential source documents for the inspected documents and their additional data is in "potsrc_documents.xlsx"
 

@@ -1,14 +1,15 @@
-# Taxonmy-of-Math-obfuscation-types
+# Taxonomy of Mathematical Plagiarism
 
-Determining types of obfuscation obtained in math reuse cases
+Determining types of obfuscation found in math reuse cases
 
 ## Dataset
 
-Annoated cases are present in the folder "Annotated cases"
+Annoated cases are present in the folder "data/" in the file: annotations_withIDs
+More inormation on the dataset and accompanying files can be found in "data/"
 
 ## Experiments
 
-We evaluated 4 state of the art algorithms on newly created obfuscation types. Corresponding code is present in "experiments" folder
+We evaluated 4 state of the art algorithms on newly created obfuscation types. Corresponding code is present in "code/experiments" folder
 
 ## License
 
