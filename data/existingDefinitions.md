@@ -1,3 +1,0 @@
-- Write definitions for minimal phrases required for each taxonomy
-- Definitions should be easy to understand
-- Should not have any assumptions or confusing terminlogies
