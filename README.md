@@ -1,15 +1,15 @@
 # Taxonomy of Mathematical Plagiarism
 
-This repository provides dataset published in the paper "Taxonomy of Mathematical Plagiarism" and performed experiment's code.
+This repository provides the dataset published in the paper "Taxonomy of Mathematical Plagiarism" and experimented's code.
 
 ## Dataset
 
-We curated dataset of potentially plagiarised document math content span pairs along with Obfuscation (way in which content is modifed) types.
-Dataset and inormation on the accompanying files is available in "data/"
+We curated a dataset of potentially plagiarised document math content span pairs along with Obfuscation (the way in which content is modified) types.
+The dataset and information on the accompanying files are available in [data/](https://github.com/gipplab/Taxonomy-of-Mathematical-Plagiarism/tree/main/data)
 
 ## Experiments
 
-We analyzed the best-performing approaches to detect plagiarism and mathematical content similarity on the newly established taxonomy. Corresponding code is present in "code/experiments/".
+We analyzed the best-performing approaches to detect plagiarism and mathematical content similarity on the newly established taxonomy. Corresponding code is present in [code/experiments/](https://github.com/gipplab/Taxonomy-of-Mathematical-Plagiarism/tree/main/code).
 
 ## Paper
 
@@ -17,5 +17,5 @@ To Do: Add link here
 
 ## License
 
-CC-BY-SA 4.0. This defines the license for the whole dataset, which also contains non-copyrighted bibliographic metadata and reference data derived from I4OSC (CC0).
+CC-BY-SA 4.0. This defines the license for the whole dataset, which contains non-copyrighted bibliographic metadata and reference data derived from I4OSC (CC0).
 
