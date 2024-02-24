@@ -13,7 +13,7 @@ We analyzed the best-performing approaches to detect plagiarism and mathematical
 
 ## Paper
 
-To Do: Add link here
+[A. Satpute, A. Greiner-Petter, N. Giessing, I. Beckenbach, M. Schubotz, O. Teschke, A. Aizawa, and B. Gipp, “Taxonomy of Mathematical Plagiarism,” in 46th European Conference on Information Retrieval (ECIR), Glasgow, Scotland, 2024.](https://gipplab.org/wp-content/papercite-data/pdf/satpute2024.pdf)
 
 ## License
 
